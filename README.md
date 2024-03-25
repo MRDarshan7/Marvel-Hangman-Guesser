@@ -1,3 +1,3 @@
 # Marvel-Hangman-Guesser
 
-After Downloading the file just run the main.exe file and... THERE YOU GO!
+After downloading the file add the location of the Assets folder in the main.py file before executing it.
