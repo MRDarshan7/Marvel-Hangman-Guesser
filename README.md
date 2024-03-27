@@ -1,3 +1,3 @@
 # Marvel-Hangman-Guesser
 
-Just execute the main.py file and... THERE YOU GO!
+Run the Marvel Hangman Guesser-0.1-win64.msi file and install the Marvel Hangman Guesser
